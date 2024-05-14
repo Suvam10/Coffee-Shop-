@@ -346,7 +346,9 @@ span:after {
   height: 4rem;
   background: var(--white-color);
 }
-
+.newsletter-section .main-btn {
+  width: 4rem;
+}
 .newsletter-section input:focus {
   box-shadow: none;
   border: 0;

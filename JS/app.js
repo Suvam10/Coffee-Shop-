@@ -7,9 +7,10 @@ window.onscroll = () => {
   }
 };
 
-let navBar = document.querySelectorAll(".nav-link");
-let navCollapse = document.querySelector(".nav-collapse.collapse");
-navBar.forEach((a) => {
+let navLink = document.querySelectorAll(".nav-link");
+let navCollapse = document.querySelector(".navbar-collapse.collapse");
+
+navLink.forEach((a) => {
   a.addEventListener("click", () => {
     navCollapse.classList.remove("show");
   });
