@@ -90,6 +90,9 @@
     margin-right: 5rem;
     font-size: 0.625rem;
   }
+  .top-banner h4 {
+    font-size: 1rem;
+  }
 }
 @media (max-width: 767px) {
   h1 {
@@ -143,6 +146,9 @@
     margin-right: 9rem;
     font-size: 0.625rem;
   }
+  .top-banner h4 {
+    font-size: 0.925rem;
+  }
 }
 @media (max-width: 568px) {
   .delivery-section p,
@@ -156,7 +162,7 @@
   .app-section p {
     margin-right: 9rem;
     padding-right: 1.5rem;
-    font-size: 0.525rem;
+    font-size: 0.625rem;
   }
   .footer .footer-link {
     padding: 0 0.325rem;
@@ -166,5 +172,7 @@
     font-size: 0.825rem;
     padding: 0 0.325rem;
   }
+  .top-banner h4 {
+    font-size: 0.725rem;
+  }
 }
-
