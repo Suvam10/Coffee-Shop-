@@ -86,6 +86,10 @@
     font-size: 1rem;
     padding: 0 0.625rem;
   }
+  .app-section p {
+    margin-right: 5rem;
+    font-size: 0.625rem;
+  }
 }
 @media (max-width: 767px) {
   h1 {
@@ -128,21 +132,39 @@
     max-width: 8.8571rem;
   }
   .footer .footer-link {
-    padding: 0 0.125rem;
-    font-size: 0.525rem;
+    padding: 0 0.225rem;
+    font-size: 0.725rem;
   }
   .footer a {
-    font-size: 0.625rem;
+    font-size: 0.825rem;
     padding: 0 0.225rem;
   }
+  .app-section p {
+    margin-right: 9rem;
+    font-size: 0.625rem;
+  }
 }
-@media (max-width: 567px) {
+@media (max-width: 568px) {
   .delivery-section p,
   .delivery-section h2 {
-    margin-right: 5.225rem;
+    margin-right: 7rem;
   }
   .download-app-btn img {
     width: 100%;
     max-width: 7.8571rem;
   }
+  .app-section p {
+    margin-right: 9rem;
+    padding-right: 1.5rem;
+    font-size: 0.525rem;
+  }
+  .footer .footer-link {
+    padding: 0 0.325rem;
+    font-size: 0.725rem;
+  }
+  .footer a {
+    font-size: 0.825rem;
+    padding: 0 0.325rem;
+  }
 }
+
