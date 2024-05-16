@@ -270,32 +270,32 @@
     width: 20rem;
   }
   .time-sec h3 {
-    font-size: 1rem;
-  }
-  .time-sec span {
     font-size: 1.125rem;
   }
+  .time-sec span {
+    font-size: 1.325rem;
+  }
   .time-sec h4 {
-    font-size: 0.625rem;
+    font-size: 0.925rem;
   }
   .time-sec p {
-    font-size: 0.525rem;
+    font-size: 0.825rem;
     line-height: 1.9;
   }
   .time-sec-info {
     padding: 1rem;
   }
   .book-sec h3 {
-    font-size: 1rem;
-  }
-  .book-sec span {
     font-size: 1.125rem;
   }
+  .book-sec span {
+    font-size: 1.325rem;
+  }
   .book-sec .form-group .form-control {
-    font-size: 0.625rem;
+    font-size: 0.925rem;
     margin-bottom: 0.625rem;
   }
   .reservation-section button {
-    font-size: 0.675rem;
+    font-size: 0.975rem;
   }
 }
