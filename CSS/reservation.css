@@ -59,3 +59,22 @@
   display: flex;
   margin: auto;
 }
+.toast-header {
+  background-color: var(--success-color);
+}
+.toast-header i,
+strong {
+  color: var(--white-color);
+}
+.toast-header button {
+  background-color: var(--white-color);
+  color: var(--white-color);
+}
+.toast-body {
+  color: var(--white-color);
+  font-size: 0.875rem;
+  background-color: var(--success-color);
+}
+.form p {
+  font-size: .3125rem;
+}
